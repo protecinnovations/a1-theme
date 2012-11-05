@@ -1,7 +1,7 @@
 redmine-a1-theme
 ================
 
-Fork of Kirill Bezrukov's (http://redminecrm.com/projects/a1theme) most
+Fork of Kirill Bezrukov's (kirbez@redminecrm.com) most
 excellent A1 Theme for Redmine.
 
 This Might Not Be The Theme You Are Looking For
